@@ -7,3 +7,7 @@ stonger-2
 master-3
 
 bug-fix-1
+
+function-1
+
+release-1
